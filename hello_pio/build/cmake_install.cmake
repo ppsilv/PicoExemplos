@@ -1,4 +1,4 @@
-# Install script for directory: /home/pdsilva/project/picoTest/hello_pio
+# Install script for directory: /home/pdsilva/project/PicoExemplos/hello_pio
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/pdsilva/Projects/picoTest/hello_pio/build/pico-sdk/cmake_install.cmake")
+  include("/home/pdsilva/Projects/PicoExemplos/hello_pio/build/pico-sdk/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pdsilva/Projects/picoTest/hello_pio/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/pdsilva/Projects/PicoExemplos/hello_pio/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

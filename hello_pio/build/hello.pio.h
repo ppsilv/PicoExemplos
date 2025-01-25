@@ -43,7 +43,7 @@ static inline pio_sm_config hello_program_get_default_config(uint offset) {
 
 /*
     Esta função inicializa a PIO.
-    O nome dessa função tem que obrigatóriamente que iniciar com o nome do programa + underscore,
+    O nome dessa função tem que obrigatóriamente iniciar com o nome do programa + underscore,
     nesse caso como o programa chama-se hello tem-se que acrescentar o prefixo hello_ ao nome da
     função ficando hello_program_init(...).
 */

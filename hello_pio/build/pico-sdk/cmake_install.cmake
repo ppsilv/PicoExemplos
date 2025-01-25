@@ -39,16 +39,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/pdsilva/Projects/picoTest/hello_pio/build/pico-sdk/tools/cmake_install.cmake")
+  include("/home/pdsilva/Projects/PicoExemplos/hello_pio/build/pico-sdk/tools/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/pdsilva/Projects/picoTest/hello_pio/build/pico-sdk/src/cmake_install.cmake")
+  include("/home/pdsilva/Projects/PicoExemplos/hello_pio/build/pico-sdk/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/pdsilva/Projects/picoTest/hello_pio/build/pico-sdk/docs/cmake_install.cmake")
+  include("/home/pdsilva/Projects/PicoExemplos/hello_pio/build/pico-sdk/docs/cmake_install.cmake")
 endif()
 

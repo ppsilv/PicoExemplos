@@ -180,7 +180,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_line    0x00000000      0x13e CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
- .debug_str     0x00000000      0x1ba CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
+ .debug_str     0x00000000      0x1be CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_frame   0x00000000       0x28 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .ARM.attributes
@@ -270,7 +270,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .debug_line    0x00000000      0x25c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
- .debug_str     0x00000000      0x1fb CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
+ .debug_str     0x00000000      0x1ff CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .ARM.attributes
@@ -388,7 +388,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x14c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .debug_line    0x00000000      0xe6f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
- .debug_str     0x00000000      0x512 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
+ .debug_str     0x00000000      0x516 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .debug_frame   0x00000000       0xf4 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .ARM.attributes
@@ -443,7 +443,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .debug_line    0x00000000      0x411 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
- .debug_str     0x00000000      0x2cd CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
+ .debug_str     0x00000000      0x2d1 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .debug_frame   0x00000000       0x50 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .ARM.attributes
@@ -509,7 +509,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x61 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .debug_line    0x00000000      0x4f6 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
- .debug_str     0x00000000      0x3ee CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
+ .debug_str     0x00000000      0x3f2 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .debug_frame   0x00000000       0x74 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .ARM.attributes
@@ -611,7 +611,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x64 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .debug_line    0x00000000      0x5d6 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
- .debug_str     0x00000000      0x3a2 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
+ .debug_str     0x00000000      0x3a6 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .debug_frame   0x00000000      0x124 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .ARM.attributes
@@ -653,7 +653,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x4a2 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .debug_line    0x00000000     0x13e6 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
- .debug_str     0x00000000      0x3eb CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
+ .debug_str     0x00000000      0x3ef CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .debug_frame   0x00000000      0x178 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .ARM.attributes
@@ -686,7 +686,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x10f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .debug_line    0x00000000      0xfe3 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
- .debug_str     0x00000000      0x48b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
+ .debug_str     0x00000000      0x48f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .debug_frame   0x00000000       0xf0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .ARM.attributes
@@ -721,7 +721,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x259 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .debug_line    0x00000000      0xf9d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
- .debug_str     0x00000000      0xbf7 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
+ .debug_str     0x00000000      0xbfb CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .debug_frame   0x00000000       0xec CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .ARM.attributes
@@ -778,7 +778,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x34 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_line    0x00000000      0x31a CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
- .debug_str     0x00000000      0x356 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
+ .debug_str     0x00000000      0x35a CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_frame   0x00000000       0x30 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .ARM.attributes
@@ -815,7 +815,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0xdf CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .debug_line    0x00000000      0x7ac CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
- .debug_str     0x00000000      0x397 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
+ .debug_str     0x00000000      0x39b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .debug_frame   0x00000000       0xc0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .ARM.attributes
@@ -842,7 +842,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .debug_line    0x00000000       0x6d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
- .debug_str     0x00000000      0x198 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
+ .debug_str     0x00000000      0x19c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
@@ -854,7 +854,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .debug_line    0x00000000       0x70 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
- .debug_str     0x00000000      0x19b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
+ .debug_str     0x00000000      0x19f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
@@ -888,7 +888,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x4f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .debug_line    0x00000000      0x49a CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
- .debug_str     0x00000000      0x6f4 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
+ .debug_str     0x00000000      0x6f8 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .ARM.attributes
@@ -915,12 +915,12 @@ Discarded input sections
                 0x00000000       0x14 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_line    0x00000000       0xa6 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_line_str
-                0x00000000       0x7c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
+                0x00000000       0x80 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_info    0x00000000       0x23 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_abbrev  0x00000000       0x12 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
- .debug_str     0x00000000       0x8a CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
+ .debug_str     0x00000000       0x8e CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .ARM.attributes
@@ -950,7 +950,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_line    0x00000000      0x31f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
- .debug_str     0x00000000      0x261 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
+ .debug_str     0x00000000      0x265 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .ARM.attributes
@@ -1136,7 +1136,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x5f3 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .debug_line    0x00000000     0x2d31 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
- .debug_str     0x00000000      0x51d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
+ .debug_str     0x00000000      0x521 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .debug_frame   0x00000000      0x44c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .ARM.attributes
@@ -1343,7 +1343,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x405 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .debug_line    0x00000000     0x259f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
- .debug_str     0x00000000      0x530 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
+ .debug_str     0x00000000      0x534 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .debug_frame   0x00000000      0x390 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .ARM.attributes
@@ -1385,7 +1385,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x49 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .debug_line    0x00000000      0x2a0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
- .debug_str     0x00000000      0x23a CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
+ .debug_str     0x00000000      0x23e CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .debug_frame   0x00000000       0x74 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .ARM.attributes
@@ -1491,7 +1491,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x439 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .debug_line    0x00000000     0x2e0b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
- .debug_str     0x00000000      0x6f8 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
+ .debug_str     0x00000000      0x6fc CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .debug_frame   0x00000000      0x3dc CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .ARM.attributes
@@ -1514,7 +1514,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_line    0x00000000      0x280 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
- .debug_str     0x00000000      0x381 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
+ .debug_str     0x00000000      0x385 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .ARM.attributes
@@ -1695,7 +1695,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x1ce CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .debug_line    0x00000000      0xe13 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
- .debug_str     0x00000000      0xed6 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
+ .debug_str     0x00000000      0xeda CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .comment       0x00000000       0x46 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .debug_frame   0x00000000      0x158 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .ARM.attributes
@@ -3589,80 +3589,80 @@ LOAD linker stubs
  .debug_rnglists
                 0x000028ed      0x525 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
 
-.debug_line     0x00000000    0x16e01
- .debug_line    0x00000000      0x7dc CMakeFiles/hello_pio.dir/hello.c.o
- .debug_line    0x000007dc     0x1c8d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_line    0x00002469      0x284 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_line    0x000026ed      0x926 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
- .debug_line    0x00003013      0x4ca CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
- .debug_line    0x000034dd      0x3b3 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_line    0x00003890     0x170a CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
- .debug_line    0x00004f9a      0x2de CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
- .debug_line    0x00005278     0x1b1c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
- .debug_line    0x00006d94     0x3124 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
- .debug_line    0x00009eb8     0x1d27 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
- .debug_line    0x0000bbdf     0x1e04 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_line    0x0000d9e3      0x4f7 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
- .debug_line    0x0000deda      0x33d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_line    0x0000e217      0x477 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_line    0x0000e68e      0x356 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_line    0x0000e9e4      0x313 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
- .debug_line    0x0000ecf7      0x539 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_line    0x0000f230      0x55b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_line    0x0000f78b      0x107 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_line    0x0000f892      0x2a9 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_line    0x0000fb3b      0x3f8 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_line    0x0000ff33      0x4f2 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_line    0x00010425      0x66d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_line    0x00010a92       0x61 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_line    0x00010af3      0x3b4 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_line    0x00010ea7      0x407 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_line    0x000112ae      0x195 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
- .debug_line    0x00011443       0x94 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_line    0x000114d7      0x1f0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_line    0x000116c7     0x1b88 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
- .debug_line    0x0001324f       0xa5 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
- .debug_line    0x000132f4      0x864 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_line    0x00013b58     0x14ce CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
- .debug_line    0x00015026     0x1ddb CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
+.debug_line     0x00000000    0x16e09
+ .debug_line    0x00000000      0x7e4 CMakeFiles/hello_pio.dir/hello.c.o
+ .debug_line    0x000007e4     0x1c8d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_line    0x00002471      0x284 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_line    0x000026f5      0x926 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
+ .debug_line    0x0000301b      0x4ca CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
+ .debug_line    0x000034e5      0x3b3 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_line    0x00003898     0x170a CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
+ .debug_line    0x00004fa2      0x2de CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
+ .debug_line    0x00005280     0x1b1c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
+ .debug_line    0x00006d9c     0x3124 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
+ .debug_line    0x00009ec0     0x1d27 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
+ .debug_line    0x0000bbe7     0x1e04 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_line    0x0000d9eb      0x4f7 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
+ .debug_line    0x0000dee2      0x33d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_line    0x0000e21f      0x477 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_line    0x0000e696      0x356 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_line    0x0000e9ec      0x313 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_line    0x0000ecff      0x539 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_line    0x0000f238      0x55b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_line    0x0000f793      0x107 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_line    0x0000f89a      0x2a9 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_line    0x0000fb43      0x3f8 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_line    0x0000ff3b      0x4f2 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_line    0x0001042d      0x66d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_line    0x00010a9a       0x61 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_line    0x00010afb      0x3b4 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_line    0x00010eaf      0x407 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_line    0x000112b6      0x195 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+ .debug_line    0x0001144b       0x94 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_line    0x000114df      0x1f0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_line    0x000116cf     0x1b88 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
+ .debug_line    0x00013257       0xa5 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_line    0x000132fc      0x864 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_line    0x00013b60     0x14ce CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
+ .debug_line    0x0001502e     0x1ddb CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
 
-.debug_str      0x00000000     0x4c95
- .debug_str     0x00000000     0x4c95 CMakeFiles/hello_pio.dir/hello.c.o
-                                0xd5f (size before relaxing)
- .debug_str     0x00004c95      0xc77 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_str     0x00004c95      0x202 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_str     0x00004c95      0x385 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
- .debug_str     0x00004c95      0x32e CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
- .debug_str     0x00004c95      0x241 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_str     0x00004c95      0xa65 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
- .debug_str     0x00004c95      0x20d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
- .debug_str     0x00004c95      0x7a0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
- .debug_str     0x00004c95     0x119d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
- .debug_str     0x00004c95      0x9e8 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
- .debug_str     0x00004c95      0x997 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_str     0x00004c95      0x460 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
- .debug_str     0x00004c95      0x28f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_str     0x00004c95      0x33d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_str     0x00004c95      0x244 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_str     0x00004c95      0x294 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
- .debug_str     0x00004c95      0x788 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_str     0x00004c95      0x49c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_str     0x00004c95       0x8c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_str     0x00004c95       0x8f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_str     0x00004c95       0x91 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_str     0x00004c95      0x2c4 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_str     0x00004c95       0x97 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_str     0x00004c95       0x95 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_str     0x00004c95       0x8f CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_str     0x00004c95      0x2a9 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_str     0x00004c95       0x95 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
- .debug_str     0x00004c95       0x8c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_str     0x00004c95      0x403 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_str     0x00004c95      0x4d7 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
- .debug_str     0x00004c95       0x80 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
- .debug_str     0x00004c95      0x722 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_str     0x00004c95      0xd7d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
- .debug_str     0x00004c95     0x10de CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
+.debug_str      0x00000000     0x4c9d
+ .debug_str     0x00000000     0x4c9d CMakeFiles/hello_pio.dir/hello.c.o
+                                0xd67 (size before relaxing)
+ .debug_str     0x00004c9d      0xc7b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_str     0x00004c9d      0x206 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_str     0x00004c9d      0x389 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
+ .debug_str     0x00004c9d      0x332 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
+ .debug_str     0x00004c9d      0x245 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_str     0x00004c9d      0xa69 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
+ .debug_str     0x00004c9d      0x211 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
+ .debug_str     0x00004c9d      0x7a4 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
+ .debug_str     0x00004c9d     0x11a1 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
+ .debug_str     0x00004c9d      0x9ec CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
+ .debug_str     0x00004c9d      0x99b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_str     0x00004c9d      0x464 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
+ .debug_str     0x00004c9d      0x293 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_str     0x00004c9d      0x341 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_str     0x00004c9d      0x248 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_str     0x00004c9d      0x298 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_str     0x00004c9d      0x78c CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_str     0x00004c9d      0x4a0 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_str     0x00004c9d       0x90 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_str     0x00004c9d       0x93 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_str     0x00004c9d       0x95 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_str     0x00004c9d      0x2c8 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_str     0x00004c9d       0x9b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_str     0x00004c9d       0x99 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_str     0x00004c9d       0x93 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_str     0x00004c9d      0x2ad CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_str     0x00004c9d       0x99 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+ .debug_str     0x00004c9d       0x90 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_str     0x00004c9d      0x407 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_str     0x00004c9d      0x4db CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
+ .debug_str     0x00004c9d       0x84 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_str     0x00004c9d      0x726 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_str     0x00004c9d      0xd81 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
+ .debug_str     0x00004c9d     0x10e2 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
 
 .debug_frame    0x00000000     0x1c9c
  .debug_frame   0x00000000       0x30 CMakeFiles/hello_pio.dir/hello.c.o
@@ -3693,25 +3693,25 @@ LOAD linker stubs
  .debug_frame   0x00001c74       0x28 /home/pdsilva/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-strlen-stub.o)
 
 .debug_line_str
-                0x00000000      0x353
+                0x00000000      0x357
  .debug_line_str
-                0x00000000      0x353 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
-                                 0x7e (size before relaxing)
+                0x00000000      0x357 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+                                 0x82 (size before relaxing)
  .debug_line_str
-                0x00000353       0x81 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
+                0x00000357       0x85 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
  .debug_line_str
-                0x00000353       0x83 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+                0x00000357       0x87 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
  .debug_line_str
-                0x00000353       0x89 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+                0x00000357       0x8d CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
  .debug_line_str
-                0x00000353       0x87 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+                0x00000357       0x8b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
  .debug_line_str
-                0x00000353       0x81 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+                0x00000357       0x85 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
  .debug_line_str
-                0x00000353       0x87 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+                0x00000357       0x8b CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
  .debug_line_str
-                0x00000353       0x7e CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+                0x00000357       0x82 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
  .debug_line_str
-                0x00000353       0x72 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
+                0x00000357       0x76 CMakeFiles/hello_pio.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
  .debug_line_str
-                0x00000353       0xc2 /home/pdsilva/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x00000357       0xc2 /home/pdsilva/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
