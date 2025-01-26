@@ -43,9 +43,6 @@ int main() {
     // Chama a função hello_program_init definida no hello.pio, para configurar e iniciar o programa.
     hello_program_init(pio, sm, offset, PIO_PIN);
 
-    // The state machine is now running. Any value we push to its TX FIFO will
-    // appear on the LED pin.
-    // press a key to exit
     // Nesse ponto a máquina de estado está executando suas tarefas, e a primeira
     // é ler o TX FIFO que nesse momento não tem nada assim ela está parada na instrução pull
     // do nosso program hello.pio, quando enviarmos dados que nesse caso é um contador de 0 a 255
